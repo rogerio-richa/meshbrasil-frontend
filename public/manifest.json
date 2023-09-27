@@ -1,0 +1,8 @@
+{  
+  "theme_color": "#1975ff",
+  "background_color": "#f2f5f9",
+  "display": "standalone",
+  "start_url": "https://platform.meshbrasil.com",
+  "short_name": "Meshtastic Mapper",
+  "name": "Meshtastic Mapper"
+}
